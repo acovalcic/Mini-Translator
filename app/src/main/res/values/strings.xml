@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Mini Translator</string>
+    <string name="main_text">Traduceți din (în) limba Română în (din) limba:</string>
+    <string name="text_btn1">Engleză</string>
+    <string name="text_btn2">Franceză</string>
+    <string name="text_btn3">Germană</string>
+    <string name="text_off1">Română->Engleză</string>
+    <string name="text_on1">Engleză->Română</string>
+    <string name="text_off2">Română->Franceză</string>
+    <string name="text_on2">Franceză->Română</string>
+    <string name="text_off3">Română->Germană</string>
+    <string name="text_on3">Germană->Română</string>
+    <string name="en">Engleză</string>
+    <string name="ro">Română</string>
+    <string name="fr">Franceză</string>
+    <string name="ro_help_text">Introduceți textul în limba Română</string>
+    <string name="eng_help_text">Introduceți textul în limba Engleză</string>
+    <string name="text_in_eng">Textul tradus în limba Engleză</string>
+    <string name="txt_in_ro">Textul tradus în limba Română</string>
+    <string name="fr_help_text">Introduceți textul în limba Franceză</string>
+    <string name="text_in_fr">Textul tradus în limba Franceză</string>
+    <string name="ger_help_text">Introduceți textul în limba Germană</string>
+    <string name="text_in_ger">Textul tradus în limba Germană</string>
+
+    <string name="ger">Germană</string>
+    <string name="traducere_noua">Traducere nouă</string>
+    <string name="salvare_text_tradus">Salvare Text Tradus</string>
+    <string name="title_activity_setari">Setări</string>
+
+    <string name="about_header">Despre utilizator</string>
+    <string name="startup_header">Pornire</string>
+
+    <string name="signature_title">Semnătura dumneavoastră</string>
+    <string name="lang_title">Limba preferată pentru tradus din Română</string>
+    <string name="startup_title">Pagina de pornire</string>
+
+</resources>

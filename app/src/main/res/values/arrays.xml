@@ -1,0 +1,27 @@
+<resources>
+    <string-array name="lang_entries">
+        <item>Engleză</item>
+        <item>Franceză</item>
+        <item>Germană</item>
+    </string-array>
+
+    <string-array name="lang_values">
+        <item>en</item>
+        <item>fr</item>
+        <item>ger</item>
+    </string-array>
+
+    <string-array name="startup_entries">
+        <item>Prima Pagină</item>
+        <item>Traducere Română - Engleză</item>
+        <item>Traducere Română - Franceză</item>
+        <item>Traducere Română - Germană</item>
+    </string-array>
+
+    <string-array name="startup_values">
+        <item>op</item>
+        <item>en</item>
+        <item>fr</item>
+        <item>ger</item>
+    </string-array>
+</resources>

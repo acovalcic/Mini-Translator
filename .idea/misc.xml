@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/drawable/custom_button.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/drawable/ic_baseline_bar_chart_24.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/drawable/ic_baseline_g_translate_24.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/drawable/ic_baseline_group_24.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/drawable/ic_baseline_save_24.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/drawable/ic_baseline_translate_24.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/layout/activity_chart.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/layout/activity_cuprins.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/layout/activity_echipa.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/layout/activity_informatii.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/layout/activity_launcher.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/layout/activity_main2.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/layout/activity_ro_to_eng.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/layout/activity_view_ro_to_eng.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/layout/elemlistview.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/layout/fragment_1.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/layout/fragment_2.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/layout/fragment_3.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/layout/fragment_4.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/layout/fragment_5.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/layout/fragment_6.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/layout/settings_activity.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Ady/Desktop/Proiecte/ProiectDAM/ANDROID/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3828125" />
+        <entry key="..\:/Users/Ady/Desktop/de incarcat/Mini Translator/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2140625" />
+        <entry key="..\:/Users/Ady/Desktop/de incarcat/Mini Translator/app/src/main/res/drawable/custom_button.xml" value="0.2140625" />
+        <entry key="..\:/Users/Ady/Desktop/de incarcat/Mini Translator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2140625" />
+        <entry key="..\:/Users/Ady/Desktop/de incarcat/Mini Translator/app/src/main/res/layout/activity_launcher.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Ady/Desktop/de incarcat/Mini Translator/app/src/main/res/layout/activity_main.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Ady/Desktop/de incarcat/Mini Translator/app/src/main/res/layout/activity_ro_to_eng.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Ady/Desktop/de incarcat/Mini Translator/app/src/main/res/layout/activity_ro_to_fr.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Ady/Desktop/de incarcat/Mini Translator/app/src/main/res/layout/activity_ro_to_ger.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Ady/Desktop/de incarcat/Mini Translator/app/src/main/res/layout/activity_view_ro_to_eng.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Ady/Desktop/de incarcat/Mini Translator/app/src/main/res/layout/elemlistview.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Ady/Desktop/de incarcat/Mini Translator/app/src/main/res/layout/fragment_1.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Ady/Desktop/de incarcat/Mini Translator/app/src/main/res/layout/fragment_2.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Ady/Desktop/de incarcat/Mini Translator/app/src/main/res/layout/fragment_3.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Ady/Desktop/de incarcat/Mini Translator/app/src/main/res/layout/fragment_4.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Ady/Desktop/de incarcat/Mini Translator/app/src/main/res/layout/fragment_5.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Ady/Desktop/de incarcat/Mini Translator/app/src/main/res/layout/fragment_6.xml" value="0.19791666666666666" />
+        <entry key="..\:/Users/Ady/Desktop/de incarcat/Mini Translator/app/src/main/res/layout/settings_activity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Ady/Desktop/de incarcat/Mini Translator/app/src/main/res/xml/root_preferences.xml" value="0.19791666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
